@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\cosmin\desktop\battleshipv1\battleshipv1\source.cpp(159): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cosmin\desktop\battleshipv1\battleshipv1\source.cpp(226): warning C4018: '<': signed/unsigned mismatch
+c:\users\cosmin\desktop\battleshipv1\battleshipv1\source.cpp(399): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cosmin\desktop\battleshipv1\battleshipv1\source.cpp(458): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+c:\users\cosmin\desktop\battleshipv1\battleshipv1\source.cpp(64): warning C4715: 'menu': not all control paths return a value
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BattleShipv1.vcxproj -> C:\Users\Cosmin\Desktop\BattleShipv1\Release\BattleShipv1.exe
